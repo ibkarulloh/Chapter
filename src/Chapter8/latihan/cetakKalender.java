@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class cetakKalender {
     public static void main(String[] args) {
          Scanner input = new Scanner(System.in);
-         System.out.print("Enter full year (e.g. , 2021)");
+         System.out.print("Enter full year (e.g. , 2021) ");
          int year = input.nextInt();
 
          System.out.print("Emter month as anumber between 1 and 12: ");
